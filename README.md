@@ -8,9 +8,13 @@
 4. Hit the below URL to access the app from container
    http://localhost:8080/weatherforecast/
 
-# Docker compose tool to simplify management and deployment of multiple containers
+# Docker compose
+## Docker compose tool to simplify management and deployment of multiple containers
 Using docker-compose.yaml, we can build and run multiple containers with network and environment config at the same time.
 
-# Push image onto DockerHub
+# Push image into DockerHub
 https://hub.docker.com/repositories/bhuvanakm
-We can also push image onto Azure Container Registry(ACR) with scalibility and security
+We can also push image into Azure Container Registry(ACR) with scalibility and security
+
+## Azure Container Registry
+Container can be fetched from DockerHub or can be built by using GitHub code with CI/CD setup
